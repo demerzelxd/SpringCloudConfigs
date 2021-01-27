@@ -1,9 +1,6 @@
 # 公共配置
 # server:
 #    port: 7879
-spring:
-    application:
-        name: configclient
 eureka:
     client:
         service-url:
